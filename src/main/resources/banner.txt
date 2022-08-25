@@ -1,0 +1,28 @@
+   _____   _           _                 
+ | ____| | |   __ _  (_)  _   _    __ _ 
+ |  _|   | |  / _` | | | | | | |  / _` |
+ | |___  | | | (_| | | | | |_| | | (_| |
+ |_____| |_|  \__,_| |_|  \__, |  \__,_|
+                          |___/         
+${AnsiBackground.WHITE} ${application.title} ${application.version}
+
+_______  _         _               
+(_______)| |       (_)              
+ _____   | |  ____  _  _   _   ____ 
+|  ___)  | | / _  || || | | | / _  |
+| |_____ | |( ( | || || |_| |( ( | |
+|_______)|_| \_||_||_| \__  | \_||_|
+                      (____/        
+                                               
+,------. ,--.          ,--.                    
+|  .---' |  |  ,--,--. `--' ,--. ,--.  ,--,--. 
+|  `--,  |  | ' ,-.  | ,--.  \  '  /  ' ,-.  | 
+|  `---. |  | \ '-'  | |  |   \   '   \ '-'  | 
+`------' `--'  `--`--' `--' .-'  /     `--`--' 
+                            `---'              
+Application Name: ${application.title}
+Application Version: ${application.version}
+                            
+${AnsiColor.GREEN} :: Powered by ES
+${AnsiColor.RED} :: Spring Boot${spring-boot.formatted-version} :: ${AnsiColor.RED}
+${AnsiColor.DEFAULT}
